@@ -14,25 +14,6 @@ body {
   font-family: Manrope, sans-serif;
 }
 
-.logo {
-  margin-bottom: 30px;
-}
-
-.logo__title {
-  text-align: center;
-  font-size: 24px;
-  font-weight: 700;
-  color: #77b8c2;
-  letter-spacing: 0.02em;
-}
-
-.logo__desc {
-  text-align: center;
-  font-size: 14px;
-  font-weight: 300;
-  color: #77b8c2;
-}
-
 h1 {
   margin-bottom: 80px;
   text-align: center;
